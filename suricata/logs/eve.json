@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-02-12T14:22:05.123456+0000",
+  "flow_id": 9876543210,
+  "event_type": "alert",
+  "src_ip": "203.0.113.10",
+  "src_port": 54321,
+  "dest_ip": "198.51.100.5",
+  "dest_port": 80,
+  "proto": "TCP",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 2001219,
+    "rev": 19,
+    "signature": "ET SCAN Nmap Scripting Engine User-Agent Detected",
+    "category": "Potential Reconnaissance Activity",
+    "severity": 2
+  }
+}
