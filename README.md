@@ -1,11 +1,11 @@
-# 🛡️ Zero-Trust Cloud Security Using AWS GuardDuty & Suricata IDS
+#  Zero-Trust Cloud Security Using AWS GuardDuty & Suricata IDS
 
 A complete Zero-Trust cloud monitoring environment built using **AWS GuardDuty**, **Suricata IDS**, and an **Apache Web Server** on AWS EC2.  
 This project detects **port scans**, **credential misuse**, and suspicious network behavior using both cloud-native and host-based intrusion detection.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to build a **multi-layered Zero-Trust detection system** using AWS Free Tier and open-source tools.
 
@@ -20,7 +20,7 @@ This setup provides **end-to-end visibility** across API logs, network traffic, 
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### ✔ Cloud-Level Detection (GuardDuty)
 Detects:
@@ -47,7 +47,7 @@ Monitors:
 
 ---
 
-## 🔧 Technology Stack
+##  Technology Stack
 
 | Layer | Tools |
 |------|--------|
@@ -59,14 +59,14 @@ Monitors:
 
 ---
 
-## 🧩 System Architecture
+##  System Architecture
 Architecture diagram is available in:
 
 📁 `architecture/system_architecture.png`
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 ### 1️⃣ Clone the Repository
 ```bash
